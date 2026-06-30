@@ -1,18 +1,18 @@
-# Enterprise ChatGPT Apps Showcase
+# Enterprise ChatGPT Apps Portfolio
 
-> An anonymized portfolio case study on turning internal business workflows into ChatGPT Apps connected to enterprise systems through MCP-style connectors, APIs, and embedded feedback experiences.
+> Turns the process of building internal ChatGPT Apps into a product case study: user discovery, workflow definition, MCP/API integration, testing, and feedback loops.
 
 ![Status](https://img.shields.io/badge/status-portfolio%20case%20study-2F6FED)
 ![Scope](https://img.shields.io/badge/scope-anonymized%20enterprise%20AI-5B667A)
 ![Role](https://img.shields.io/badge/role-business%20%2B%20technical%20bridge-0B7A75)
 
-## Why This Project Matters
+## Product Impact
 
 The project was part of an internal AI adoption initiative focused on building ChatGPT-based applications for business users. The objective was not only to expose APIs to ChatGPT, but to turn complex internal workflows into usable conversational tools with the right permissions, context, UX, and feedback loops.
 
 My contribution sat between product discovery, business analysis, user testing, and technical delivery. I worked with internal stakeholders to understand their needs and pain points, translated those needs into app behavior and acceptance criteria, and collaborated with the technical team to iterate the solutions until they were useful in real working contexts.
 
-## Architecture at a Glance
+## Functional Flow
 
 ```mermaid
 flowchart LR
@@ -43,7 +43,7 @@ I acted as the connection point between business users and the technical team:
 - Ran feedback sessions with users to validate whether the app responses were useful, understandable, and aligned with real work.
 - Helped define a reusable feedback mechanism so each app could improve from user input after launch.
 
-## What This Repository Contains
+## Code And Installation
 
 This repository does not include company code, credentials, internal URLs, datasets, screenshots, or proprietary implementation details. It is a structured, anonymized explanation of the project idea and my contribution.
 
